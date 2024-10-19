@@ -1,0 +1,23 @@
+# Ignore built files
+dist/
+build/
+
+# Ignore dependencies
+node_modules/
+
+# Ignore configuration files
+.eslintrc.json
+.prettierrc
+
+# Ignore test files
+tests/
+
+# Ignore log files
+*.log
+
+# Ignore coverage reports
+coverage/
+
+# Ignore other files or folders you want to exclude
+*.min.js
+*.bundle.js

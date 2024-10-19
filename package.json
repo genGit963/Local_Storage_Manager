@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/genGit963/Local_Storage_Manager/issues"
   },
-  "homepage": "https://github.com/genGit963/Local_Storage_Manager#readme"
+  "homepage": "https://github.com/genGit963/Local_Storage_Manager#readme",
+  "devDependencies": {
+    "eslint": "^9.13.0"
+  }
 }
