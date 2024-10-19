@@ -12,7 +12,6 @@ Thank you for considering contributing to the **Local Storage Manager**! We welc
   - [Issues](#issues)
   - [Pull Requests](#pull-requests)
   - [Style Guide](#style-guide)
-  - [Additional Resources](#additional-resources)
 
 ## Getting Started
 
@@ -83,28 +82,3 @@ Please adhere to the following style guidelines when contributing:
 - End statements with a semicolon.
 - Follow the project's ESLint configuration for code style.
 - Write clear and meaningful commit messages.
-
-## Additional Resources
-
-- [JavaScript Standard Style](https://standardjs.com/)
-- [GitHub Flow](https://guides.github.com/introduction/flow/)
-- [ESLint Documentation](https://eslint.org/docs/user-guide/getting-started)
-
-Thank you for contributing to the **Local Storage Manager**! Your efforts help make this project better for everyone.
-
-```
-
-### Key Sections Explained
-
-- **Getting Started**: Provides steps for forking, cloning, and setting up the project.
-- **How to Contribute**: Outlines different types of contributions that are welcome.
-- **Code of Conduct**: Refers to the Code of Conduct file to ensure a respectful community.
-- **Issues**: Instructs contributors on how to report bugs and feature requests.
-- **Pull Requests**: Step-by-step guide on how to submit a pull request.
-- **Style Guide**: Specifies coding standards and practices to follow.
-- **Additional Resources**: Links to useful documentation and guides.
-
-### Customization
-
-Feel free to modify any section to better fit your project's needs or to add any additional guidelines you think would be helpful for contributors. Let me know if you need any further assistance!
-```
