@@ -1,0 +1,19 @@
+{
+  "name": "local_storage_manager",
+  "version": "1.0.0",
+  "description": "Local Storage Manager: A package that abstracts the complexities of local storage with an easy-to-use API for setting, getting, and removing items, including automatic serialization and deserialization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genGit963/Local_Storage_Manager.git"
+  },
+  "author": "genGit963, gen963",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genGit963/Local_Storage_Manager/issues"
+  },
+  "homepage": "https://github.com/genGit963/Local_Storage_Manager#readme"
+}
