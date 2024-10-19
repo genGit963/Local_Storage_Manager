@@ -4,10 +4,13 @@ A lightweight and easy-to-use JavaScript package that simplifies handling browse
 
 ## 🌟 Features
 
+I will integrate following features like:
+
 - 🚀 Easy API for local storage operations: `setItem`, `getItem`, `removeItem`, and `clear`.
 - 🛠️ Supports automatic serialization and deserialization of JavaScript objects.
 - 📦 Small package size and zero dependencies.
 - 🧹 Clean and minimal codebase for high performance.
+- 🗽 Following the release of the initial version, I have exciting milestones planned for future updates.
 
 ## 📦 Installation
 
