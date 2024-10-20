@@ -37,7 +37,7 @@ I welcome contributions in various forms, including:
 - Documentation improvements
 - Test enhancements
 
-Before you start working on a new feature or bug fix, please check the [issues](#issues) to see if the topic is already being worked on.
+Before you start working on a new feature or bug fix, please check the [I](#issues) to see if the topic is already being worked on.
 
 ## Code of Conduct
 

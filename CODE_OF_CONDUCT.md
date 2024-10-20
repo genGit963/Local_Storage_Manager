@@ -19,7 +19,7 @@ Welcome to the **Local Storage Manager** project! I want to create a friendly an
 
 ## How to Report Issues
 
-If you encounter any issues or feel uncomfortable, please reach out via GitHub issues in the [repository](https://github.com/genGit963/Local_Storage_Manager).
+If you encounter any issues or feel uncomfortable, please reach out via GitHub issues in the [repository](https://github.com/genGit963/Local_Storage_Manager/issues).
 
 ## Conclusion
 

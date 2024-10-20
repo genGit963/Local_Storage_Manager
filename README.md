@@ -82,7 +82,7 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact
 
-If you have any questions or feedback, please reach out via GitHub issues in the [repository](https://github.com/genGit963/Local_Storage_Manager).
+If you have any questions or feedback, please reach out via GitHub issues in the [repository](https://github.com/genGit963/Local_Storage_Manager/issues).
 
 ---
 
