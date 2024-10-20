@@ -1,6 +1,6 @@
 # Contributing to Local Storage Manager
 
-Thank you for considering contributing to the **Local Storage Manager**! We welcome contributions from the community and appreciate your interest in improving this project.
+Thank you for considering contributing to the **Local Storage Manager**! I welcome contributions from the community and appreciate your interest in improving this project.
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ Thank you for considering contributing to the **Local Storage Manager**! We welc
 
 ## How to Contribute
 
-We welcome contributions in various forms, including:
+I welcome contributions in various forms, including:
 
 - Bug fixes
 - New features
@@ -41,7 +41,7 @@ Before you start working on a new feature or bug fix, please check the [issues](
 
 ## Code of Conduct
 
-We expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it before contributing to ensure a welcoming environment for everyone.
+I expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it before contributing to ensure a welcoming environment for everyone.
 
 ## Issues
 

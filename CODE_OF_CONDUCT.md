@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the **Local Storage Manager** project! We want to create a friendly and inclusive environment for everyone involved, whether you're a contributor, user, or just browsing.
+Welcome to the **Local Storage Manager** project! I want to create a friendly and inclusive environment for everyone involved, whether you're a contributor, user, or just browsing.
 
 ## Our Values
 
@@ -23,4 +23,4 @@ If you encounter any issues or feel uncomfortable, please reach out via GitHub i
 
 ## Conclusion
 
-Thank you for being part of the **Local Storage Manager** community! Together, we can create a positive environment where everyone can contribute and learn.
+Thank you for being part of the **Local Storage Manager** community! Together, I can create a positive environment where everyone can contribute and learn.
