@@ -12,6 +12,7 @@ Thank you for considering contributing to the **Local Storage Manager**! I welco
   - [Issues](#issues)
   - [Pull Requests](#pull-requests)
   - [Style Guide](#style-guide)
+- [📄 for more info](#-for-more-info)
 
 ## Getting Started
 
@@ -82,3 +83,7 @@ Please adhere to the following style guidelines when contributing:
 - End statements with a semicolon.
 - Follow the project's ESLint configuration for code style.
 - Write clear and meaningful commit messages.
+
+# 📄 for more info
+
+if you want to learn more about the garbage collection management, memory leaks and handling, profilling and debugging, read out [docs](https://github.com/genGit963/Local_Storage_Manager/tree/main/docs)
